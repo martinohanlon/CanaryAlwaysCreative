@@ -12,5 +12,6 @@ regards of the config.
 
 Version history
 - 1.0 - Initial version
+- 1.0.1 - Recreated with Java 1.6
 
 -------------------------------------------------------------------------------
